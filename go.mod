@@ -1,6 +1,6 @@
 module github.com/C-Sto/BananaPhone
 
-go 1.15
+go 1.18
 
 require (
 	github.com/Binject/debug v0.0.0-20200830173345-f54480b6530f
